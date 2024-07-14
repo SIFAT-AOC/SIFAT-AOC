@@ -7,11 +7,11 @@
 
 [<img src='https://www.iconsdb.com/icons/preview/white/instagram-xxl.png' alt='github' height='40' >](https://github.com/SIFAT-AOC)  [<img src='https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sifathasan2003/)  [<img src='https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png' alt='facebook' height='40'>](https://www.facebook.com/Sifat3hasan23)  [<img src='https://www.iconsdb.com/icons/preview/white/youtube-xxl.png' alt='YouTube' height='40'>](https://www.youtube.com/@sifatcreator1175)
 
-I have more than 3 years of experience with a vast majority dedicated to operational and technical. I constantly challenge myself to solve problems by Coding, Development and I love making exclusive live website. 
+I have over 3 years of experience with a vast majority dedicated to operational and technical. I constantly challenge myself to solve problems through Coding, Development and I love making exclusive live websites. 
 
-Highly Recommended wordpress Expert. I provide innovative, high-quality creative solutions and pursue every project with passion, intelligence, and personal commitment.
+Highly Recommended WordPress Expert. I provide innovative, high-quality creative solutions and pursue every project with passion, intelligence, and personal commitment.
  
-I have a huge range of experience all the way from start-ups to large Fortune 500 businesses. When it comes to Shopify I can assist in all facets of a company. I have direct experience app and theme development, search engine optimization, conversion optimization, and even business operations like optimization your inventory tracking and shipping methods across multiple sales channels. I'm ready to help you take your business to the next level! I cater to diverse requirements ranging from simple shopping carts to complex social networking websites. I Design and Code Websites myself, let me know if you need some mock-ups!
+I have a huge range of experience from start-ups to large Fortune 500 businesses. Regarding WordPress, I can assist in all facets of a company. I have direct experience app and theme development, search engine optimization, conversion optimization, and even business operations like optimization of your inventory tracking and shipping methods across multiple sales channels. I'm ready to help you take your business to the next level! I cater to diverse requirements ranging from simple shopping carts to complex social networking websites. I Design and Code Websites myself, let me know if you need some mock-ups!
  
 Above all, I offer great communication. I feel that this is one of the most important facets of getting a job completed effectively, so you can count on me giving you great customer service during and after the job is done,
 
@@ -20,12 +20,12 @@ Landing Page / WordPress / Shopify / FIGMA
 
 ## My areas of expertise include: 
 
-### Wordpress
- + Ecommerce Website with Woocommerce
+### WordPress
+ + E-commerce Website with Woocommerce
  + Elementor/Divi Builder/WP Page Builder/Thrive Architect
- + Premium Themes Customization (Themeforest and other market places...)
- + Jpg to psd to html/css to WordPress
- + Adobe photoshop , Adobe Illustrator, Corel Draw , Sketch
+ + Premium Themes Customization (Themeforest and other marketplaces...)
+ + Jpg to psd to HTML/CSS to WordPress
+ + Adobe Photoshop, Adobe Illustrator, Corel Draw, Sketch
  + WordPress Builders:
  > Divi
  > Elementor
@@ -34,7 +34,7 @@ Landing Page / WordPress / Shopify / FIGMA
  > Thrive Architect
  > WPBakery
  > Themify
-
+<!--
 
 ### Shopify
  + Store Setup 
@@ -46,7 +46,7 @@ Landing Page / WordPress / Shopify / FIGMA
  + Figma to Shopify
  + Sketch to Shopify
  + Page Builder ( Pagefly, Shogun, Gempages )
-
+-->
 My Strengths and Skills are listed as Below:
 Experience in Liquid, JavaScript, HTML5, CSS3, Responsive, Bootstrap 5, JQuery, React.js, Git, Hosting Server, PHP, MySQL, XML
 
