@@ -75,5 +75,5 @@ Here are some ideas to get you started:
 🔭 I’m currently working on your mind
 
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SIFAT-AOC&show_icons=true)  [![GitHub Streak](https://streak-stats.demolab.com?user=SIFAT-AOC&theme=garden)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SIFAT-AOC&show_icons=true)[![GitHub Streak](https://streak-stats.demolab.com?user=SIFAT-AOC&theme=garden)](https://git.io/streak-stats)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=faridrony55)](https://github.com/ryo-ma/github-profile-trophy) -->
