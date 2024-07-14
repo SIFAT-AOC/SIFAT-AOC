@@ -16,7 +16,7 @@ I have a huge range of experience from start-ups to large Fortune 500 businesses
 Above all, I offer great communication. I feel that this is one of the most important facets of getting a job completed effectively, so you can count on me giving you great customer service during and after the job is done,
 
 ### Skills: 
-Landing Page / WordPress / Shopify / FIGMA
+Landing Page / WordPress / FIGMA
 
 ## My areas of expertise include: 
 
