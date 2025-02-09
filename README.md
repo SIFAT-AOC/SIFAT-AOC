@@ -50,6 +50,7 @@ Landing Page / WordPress / FIGMA  / Shopify
 My Strengths and Skills are listed as Below:
 Experience in Liquid, JavaScript, HTML5, CSS3, Responsive, Bootstrap 5, JQuery, React.js, Git, Hosting Server, PHP, MySQL, XML
 here is my project in pdf format visit now: 
+
 [7cef281a-7afc-4aff-a0d3-6b981a3c1023-compressed.pdf](https://github.com/user-attachments/files/18723022/7cef281a-7afc-4aff-a0d3-6b981a3c1023-compressed.pdf)  
 [2f6b3f45-2e43-4756-8e75-4e3a3c3fccf3-compressed.pdf](https://github.com/user-attachments/files/18723021/2f6b3f45-2e43-4756-8e75-4e3a3c3fccf3-compressed.pdf)  
 [faa0eede-8399-487a-ac6b-69375a25f9a4-compressed.pdf](https://github.com/user-attachments/files/18723020/faa0eede-8399-487a-ac6b-69375a25f9a4-compressed.pdf)  
