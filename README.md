@@ -50,13 +50,13 @@ Landing Page / WordPress / FIGMA  / Shopify
 My Strengths and Skills are listed as Below:
 Experience in Liquid, JavaScript, HTML5, CSS3, Responsive, Bootstrap 5, JQuery, React.js, Git, Hosting Server, PHP, MySQL, XML
 here is my project in pdf format visit now: 
-[7cef281a-7afc-4aff-a0d3-6b981a3c1023-compressed.pdf](https://github.com/user-attachments/files/18723022/7cef281a-7afc-4aff-a0d3-6b981a3c1023-compressed.pdf)
-[2f6b3f45-2e43-4756-8e75-4e3a3c3fccf3-compressed.pdf](https://github.com/user-attachments/files/18723021/2f6b3f45-2e43-4756-8e75-4e3a3c3fccf3-compressed.pdf)
-[faa0eede-8399-487a-ac6b-69375a25f9a4-compressed.pdf](https://github.com/user-attachments/files/18723020/faa0eede-8399-487a-ac6b-69375a25f9a4-compressed.pdf)
-[f7994fa3-7f48-4eac-b807-01b12ba47fc7-compressed.pdf](https://github.com/user-attachments/files/18723019/f7994fa3-7f48-4eac-b807-01b12ba47fc7-compressed.pdf)
-[c53ddd5c-44b9-421c-a6e1-a354ddd1328e_compressed.pdf](https://github.com/user-attachments/files/18723018/c53ddd5c-44b9-421c-a6e1-a354ddd1328e_compressed.pdf)
-[84e385c5-a3d5-4dbf-922d-2eb9a5216168_compressed.pdf](https://github.com/user-attachments/files/18723017/84e385c5-a3d5-4dbf-922d-2eb9a5216168_compressed.pdf)
-[7ffde039-c7fc-49e3-9143-a04eeb763437-compressed.pdf](https://github.com/user-attachments/files/18723016/7ffde039-c7fc-49e3-9143-a04eeb763437-compressed.pdf)
+[7cef281a-7afc-4aff-a0d3-6b981a3c1023-compressed.pdf](https://github.com/user-attachments/files/18723022/7cef281a-7afc-4aff-a0d3-6b981a3c1023-compressed.pdf)  
+[2f6b3f45-2e43-4756-8e75-4e3a3c3fccf3-compressed.pdf](https://github.com/user-attachments/files/18723021/2f6b3f45-2e43-4756-8e75-4e3a3c3fccf3-compressed.pdf)  
+[faa0eede-8399-487a-ac6b-69375a25f9a4-compressed.pdf](https://github.com/user-attachments/files/18723020/faa0eede-8399-487a-ac6b-69375a25f9a4-compressed.pdf)  
+[f7994fa3-7f48-4eac-b807-01b12ba47fc7-compressed.pdf](https://github.com/user-attachments/files/18723019/f7994fa3-7f48-4eac-b807-01b12ba47fc7-compressed.pdf)  
+[c53ddd5c-44b9-421c-a6e1-a354ddd1328e_compressed.pdf](https://github.com/user-attachments/files/18723018/c53ddd5c-44b9-421c-a6e1-a354ddd1328e_compressed.pdf)  
+[84e385c5-a3d5-4dbf-922d-2eb9a5216168_compressed.pdf](https://github.com/user-attachments/files/18723017/84e385c5-a3d5-4dbf-922d-2eb9a5216168_compressed.pdf)  
+[7ffde039-c7fc-49e3-9143-a04eeb763437-compressed.pdf](https://github.com/user-attachments/files/18723016/7ffde039-c7fc-49e3-9143-a04eeb763437-compressed.pdf) 
 
 Frameworks & CMS: Shopify, WordPress
 Feel free to contact me with any project.
